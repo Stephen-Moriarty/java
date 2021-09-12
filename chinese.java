@@ -12,9 +12,6 @@ public class chinese {
         System.out.println("啊，你的名字" + userName1 + "? " + "我喜欢了！");
         
 
-
-
-
         //Closes Scanner:
         tkIn.close();
         //Closes Scanner ^
