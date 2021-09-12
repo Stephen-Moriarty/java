@@ -131,6 +131,8 @@ Remember to test your programs before submitting!!!
 
 Programs that do not compile will receive a zero!
 */
+//closes Scanner:
 keyboard.close();
+//closes Scanner "input" ^
     }
 }
