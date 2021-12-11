@@ -1,5 +1,5 @@
 import java.util.*;
-public class ArrayList2 {
+public class ArrayList2protoType {
     public static void main(String[] args) {
         Scanner keyboard = new Scanner(System.in);
 
